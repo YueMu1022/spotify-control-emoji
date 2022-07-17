@@ -1,0 +1,31 @@
+.fa-play::before {
+  content: '▶️';
+}
+
+.fa-backward::before {
+  content: '⏮️';
+}
+
+.fa-forward::before {
+  content: '⏭️';
+}
+
+.fa-random::before {
+  content: '🔀';
+}
+
+.fa-sync::before {
+  content: '🔁';
+}
+
+.fa-sync.active::before {
+  content: '🔂';
+}
+
+.fa-pause::before {
+  content: '⏸️';
+}
+
+.fa-undo::before {
+  content: '↩️';
+}
