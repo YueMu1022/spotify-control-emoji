@@ -10,4 +10,5 @@
 ## 安裝
 到powercord主題資料夾執行命令  
 ```bash
-git clone https://github.com/YueMu1022/spotify-control-emoji```
+git clone https://github.com/YueMu1022/spotify-control-emoji
+```
